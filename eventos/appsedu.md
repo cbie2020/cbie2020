@@ -132,7 +132,7 @@ Os autores dos produtos e protótipos selecionados para a etapa final deverão a
 
 # Coordenação do Concurso Apps.edu
 
-Fabiano Dorça - Universidade Federal de Uberlândia (UFU) - fabianodor@ufu.br
+Ismar Frango Silveira - Universidade Presbiteriana Mackenzie (UPM) - ismarfrango@gmail.com
 Emerson Alencar - Universidade Federal do Rio Grande do Norte (UFRN) - emerson@imd.ufrn.br
 
 ## Termo de Autorização de Publicação
