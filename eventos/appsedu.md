@@ -87,24 +87,26 @@ A submissão será realizada em uma (1) única etapa, na qual devem ser informad
 
 # Apresentações
 
-As apresentações e avaliações do **Apps.edu** ocorrerão em duas etapas distintas. Na primeira etapa todos os participantes apresentarão seus protótipos ou produtos para o público do evento e para os diferentes avaliadores em uma mostra em formato de feira de software. Após esta etapa serão selecionados os que serão apresentados para uma banca de jurados na etapa final do concurso, e onde serão eleitos os premiados. A seguir, mais detalhes sobre as etapas do Concurso.
+As apresentações e avaliações do **Apps.edu** ocorrerão em duas etapas distintas. Na primeira etapa todos os participantes apresentarão seus protótipos ou produtos para o público do evento e para os diferentes avaliadores em uma mostra virtual em formato de feira de software. Após esta etapa serão selecionados os que serão apresentados para uma banca de jurados na etapa final do concurso, quando serão eleitos os premiados. A seguir, mais detalhes sobre as etapas do Concurso.
 
 ## Etapa 1 – Mostra geral de produtos e protótipos
 
-Os protótipos e produtos aceitos para participação no **Apps.edu** deverão ser apresentados pelas respectivas equipes de autores em um espaço de visitação que será disponibilizado durante o segundo dia do evento **(25/11/2020)**. Neste ambiente, as equipes receberão visitas de participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu**.
+Os protótipos e produtos aceitos para participação no Apps.edu deverão ser apresentados pelas respectivas equipes de autores em um espaço virtual de visitação que será disponibilizado durante o segundo dia do evento **(25/11/2020)**. Neste ambiente, as equipes deverão permanecer conectadas e receberão visitas de participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu**.
 
-* Ao se dirigirem para as equipes, os avaliadores se identificarão aos integrantes das mesmas. Quando os avaliadores autorizarem, a equipe deverá apresentar o funcionamento do produto ou protótipo. Durante a apresentação sugere-se que as equipes destaquem as seguintes características de seu trabalho: **(i)** Contexto para o qual o trabalho se destina; **(ii)** Público alvo; **(iii)** Resultados esperados ou alcançados, e quando for o caso, descrever o seu potencial de comercialização (incluindo estudo de mercado, ferramentas comerciais existentes na concorrência, entre outras), contexto pedagógico e potencial de aplicação na educação.
+* Ao se dirigirem para as equipes, os avaliadores se identificarão aos integrantes das mesmas. Quando os avaliadores autorizarem, a equipe deverá apresentar o funcionamento do produto ou protótipo. Durante a apresentação sugere-se que as equipes destaquem as seguintes características de seu trabalho: **(i)** Contexto para o qual o trabalho se destina; **(ii)** Público alvo; **(iii)** Resultados esperados ou alcançados, e quando for o caso, descrever o seu potencial de comercialização (incluindo estudo de mercado, ferramentas comerciais existentes na concorrência, entre outras), contexto pedagógico e potencial de aplicação na educação;
 
-* Após a apresentação, os avaliadores poderão fazer questionamentos às equipes sobre o trabalho apresentado.
+* Após a apresentação, os avaliadores poderão fazer questionamentos às equipes sobre o trabalho apresentado;
 
-* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos no item 4. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no terceiro dia do evento **(26/11/2020)**, em horário a ser divulgado na página do evento na Internet.
+* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos no item 4. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no terceiro dia do evento **(26/11/2020)**, em horário a ser divulgado na página do evento na Internet;
 
-* É de responsabilidade dos autores participantes trazer notebooks e demais materiais que julgarem necessários para realizar a apresentação de seus protótipos e produtos para o público visitante deste espaço (aparelhos multimídia, folders, cartazes, entre outros).
+
+* É de responsabilidade dos autores participantes providenciar materiais que julgarem necessários para realizar a apresentação de seus protótipos e divulgação de produtos para o público visitante deste espaço virtual (sites web, vídeos, etc.). 
 
 
 ## Etapa 2 – Apresentação dos finalistas para banca de jurados
 
-Os autores dos produtos e protótipos selecionados para a etapa final deverão apresentar os mesmos para uma banca de jurados num auditório durante o evento. Para estas apresentações só será permitida a presença do público presente no CBIE.
+
+Os autores dos produtos e protótipos selecionados para a etapa final deverão apresentar os mesmos para uma banca de jurados durante o evento. Cada equipe fará uma breve apresentação *(elevator pitch)*, com duração de 5 minutos, sobre a solução a ser desenvolvida para uma banca de jurados a serem convidados pela organização do concurso. A banca avaliadora poderá realizar uma discussão com os autores sobre a solução apresentada.
 
 * Cada equipe fará uma breve apresentação (elevator pitch), com duração de 5 minutos, sobre a solução a ser desenvolvida para uma banca de jurados a serem convidados pela organização do concurso. A banca avaliadora poderá realizar uma discussão com os autores sobre a solução apresentada.
 
@@ -112,7 +114,7 @@ Os autores dos produtos e protótipos selecionados para a etapa final deverão a
 
 * Nesta etapa, as propostas serão avaliadas pelos jurados pelo desempenho da apresentação das equipes, considerando que os critérios de negócio e técnicos já foram avaliados na etapa de classificação.
 
-* Os jurados emitirão uma nota de 0 a 10 (zero a dez) onde será avaliado o desempenho da apresentação da equipe.
+* Os jurados emitirão uma nota de 0 a 10 (zero a dez) que refletirá o desempenho da apresentação da equipe.
 
 ## Publicação
 
