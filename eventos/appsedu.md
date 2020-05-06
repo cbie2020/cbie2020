@@ -146,18 +146,4 @@ Clique no botão a seguir para realizar a sua inscrição no evento [inscrição
 
 # Programação Apps.edu
 
-## Dia XX/XX/XXXX - Etapa 1 – Mostra geral de produtos e protótipos
-
-Os produtos e protótipos aceitos para participação no Apps.edu deverão ser apresentados pelas respectivas equipes de autores em um espaço de visitação que será disponibilizado durante o segundo dia do evento. Neste ambiente, as equipes receberão visitas de participantes do CBIE 2019 bem como dos avaliadores do Apps.edu.
-
-## Dia XX/XX/XXXX - Etapa 2 – Apresentação dos finalistas para banca de jurados
-
-## Dia XX/XX/XXXX - Premiações e Encerramento
-
-# Melhores Trabalhos - Premiações
-
-## Categoria Produto:
-
-## Categoria Protótipo:
-
-## Menções honrosas:
+a definir
