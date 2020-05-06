@@ -91,13 +91,13 @@ As apresentações e avaliações do **Apps.edu** ocorrerão em duas etapas dist
 
 ## Etapa 1 – Mostra geral de produtos e protótipos
 
-Os protótipos e produtos aceitos para participação no **Apps.edu** deverão ser apresentados pelas respectivas equipes de autores em um espaço de visitação que será disponibilizado durante o segundo dia do evento (25/11/2020). Neste ambiente, as equipes receberão visitas de participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu**.
+Os protótipos e produtos aceitos para participação no **Apps.edu** deverão ser apresentados pelas respectivas equipes de autores em um espaço de visitação que será disponibilizado durante o segundo dia do evento **(25/11/2020)**. Neste ambiente, as equipes receberão visitas de participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu**.
 
 * Ao se dirigirem para as equipes, os avaliadores se identificarão aos integrantes das mesmas. Quando os avaliadores autorizarem, a equipe deverá apresentar o funcionamento do produto ou protótipo. Durante a apresentação sugere-se que as equipes destaquem as seguintes características de seu trabalho: **(i)** Contexto para o qual o trabalho se destina; **(ii)** Público alvo; **(iii)** Resultados esperados ou alcançados, e quando for o caso, descrever o seu potencial de comercialização (incluindo estudo de mercado, ferramentas comerciais existentes na concorrência, entre outras), contexto pedagógico e potencial de aplicação na educação.
 
 * Após a apresentação, os avaliadores poderão fazer questionamentos às equipes sobre o trabalho apresentado.
 
-* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos no item 4. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no terceiro dia do evento (26/11/2020), em horário a ser divulgado na página do evento na Internet.
+* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos no item 4. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no terceiro dia do evento **(26/11/2020)**, em horário a ser divulgado na página do evento na Internet.
 
 * É de responsabilidade dos autores participantes trazer notebooks e demais materiais que julgarem necessários para realizar a apresentação de seus protótipos e produtos para o público visitante deste espaço (aparelhos multimídia, folders, cartazes, entre outros).
 
@@ -116,16 +116,16 @@ Os autores dos produtos e protótipos selecionados para a etapa final deverão a
 
 ## Publicação
 
-**IMPORTANTE:** Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia 20/09/2020. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
+**IMPORTANTE:** Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia **20/09/2020**. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
 
 ## Cronograma
 
 * Início da submissão de trabalhos: a definir
-* Prazo final para submissão de trabalhos: 19/07/2020
-* Divulgação e notificação de aceitação dos trabalhos selecionados: 04/09/2020
-* Data limite para envio das versões finais dos trabalhos aceitos: 18/09/2020
+* Prazo final para submissão de trabalhos: **19/07/2020**
+* Divulgação e notificação de aceitação dos trabalhos selecionados: **04/09/2020*
+* Data limite para envio das versões finais dos trabalhos aceitos: **18/09/2020**
 * Data limite para inscrição de pelo menos um autor por trabalho: a definir
-* Apresentação dos trabalhos: 24/11/2020
+* Apresentação dos trabalhos: **24/11/2020**
 * Premiação: a definir
 
 *Serão aceitas apenas submissões feitas até as 23:55 da data limite correspondente.*
