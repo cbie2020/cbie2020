@@ -7,16 +7,16 @@ title: Apps.edu
 
 O Apps.edu tem como objetivo diagnosticar problemas reais que afetam a educação no Brasil e propor ideias e soluções tecnológicas para o progresso educacional e o empreendedorismo digital. Para tal, pesquisadores, professores, representantes governamentais, empreendedores e instituições não governamentais atuarão num ecossistema de integração que alie a ciência, inovação e empreendedorismo em prol de uma educação de qualidade. Desta forma tem como objetivos específicos:
 
-* Agregar diversas áreas do conhecimento e setores da sociedade civil (academia, escolas, governo e empresas) em torno do diagnóstico e proposição de soluções tecnológicas para problemas reais para da Educação no Brasil.
-* Identificar problemas e oportunidades de melhoria para o desenvolvimento da educação.
-* Cativar a sociedade na priorização dos problemas e oportunidades de melhoria detectados, visando orientar o desenvolvimento das soluções.
-* Engajar pesquisadores, educadores e empreendedores para a proposição e implementação de soluções para os problemas e oportunidades de melhoria.
+* Agregar diversas áreas do conhecimento e setores da sociedade civil (academia, escolas, governo e empresas) em torno do diagnóstico e proposição de soluções tecnológicas para problemas reais para da Educação no Brasil;
+* Identificar problemas e oportunidades de melhoria para o desenvolvimento da educação;
+* Cativar a sociedade na priorização dos problemas e oportunidades de melhoria detectados, visando orientar o desenvolvimento das soluções;
+* Engajar pesquisadores, educadores e empreendedores para a proposição e implementação de soluções para os problemas e oportunidades de melhoria;
 * Estimular o desenvolvimento de soluções tecnológicas inovadoras para a evolução da educação.
 
 O Apps.edu destina-se para o seguinte público-alvo:
 
-* Comunidade científica, professores, técnicos, acadêmicos/pesquisadores e alunos de graduação e pós-graduação de computação e áreas afins.
-* Profissionais/empresas das áreas de empreendedorismo, inovação, ciência e tecnologia na Educação.
+* Comunidade científica, professores, técnicos, acadêmicos/pesquisadores e alunos de graduação e pós-graduação de computação e áreas afins;
+* Profissionais/empresas das áreas de empreendedorismo, inovação, ciência e tecnologia na Educação;
 * Representantes do governo envolvidos com o tema, nos níveis federal, estadual ou municipal.
 
 
@@ -35,7 +35,7 @@ Em ambas as categorias (protótipo e produto) são esperados e poderão ser acei
 
 ## Avaliação
 
-Os critérios para a avaliação dos Produtos e Protótipos são divididos em obrigatórios e adicionais.
+Os critérios para a avaliação dos Protótipos e Produtos são divididos em obrigatórios e adicionais.
 
 ## Critérios Obrigatórios
 
@@ -58,17 +58,17 @@ Os critérios obrigatórios precisam ser atendidos por todos os produtos e prot�
 
 # Submissões
 
-As submissões de Protótipos e Produtos para o VI Concurso Apps.edu – CBIE 2019 devem ser realizadas, exclusivamente, pelo sistema JEMS. As submissões devem ser feitas até a data limite para submissão de trabalhos, seguindo o cronograma.
+As submissões de Protótipos e Produtos para o VI Concurso Apps.edu – CBIE 2020 devem ser realizadas, exclusivamente, pelo sistema JEMS. As submissões devem ser feitas até a data limite para submissão de trabalhos, seguindo o cronograma.
 
 ## Submissões para a Categoria Protótipo
 
 A submissão será realizada em uma (1) única etapa, na qual devem ser informados o(s) autor(es), título e resumo do trabalho, e submetidos 3 arquivos relacionados respectivamente aos seguintes itens: (a) artigo contendo a descrição do software (obrigatório) (b) vídeo demonstrativo (obrigatório) e (c) Acesso ao protótipo (obrigatório).
 
-* O item **(a)** refere-se ao arquivo a ser submetido contendo o artigo que descreve o software, em formato PDF e seguindo o modelo para publicação de artigos da SBC (adaptado para a Mostra). Obtenha o [modelo aqui](https://drive.google.com/file/d/0BxDakxXDvFHOR1pnRWJxeUdjZ0E/view). Os artigos devem possuir um mínimo de 4 (quatro) e um máximo de 8 (oito) páginas. É desejável que o artigo da categoria protótipo contenha as seguintes informações: **(i)** Justificativa pedagógica para o desenvolvimento do protótipo; **(ii)** Disciplinas ou Contexto para as quais o protótipo se destina; **(iii)** Público alvo do protótipo; **(iv)** Processo de desenvolvimento adotado; **(v)** Linguagem de programação utilizada; **(vi)** Apresentação do protótipo (captura de telas; tipo de licença); **(vii)** Potencial de aplicação do protótipo em sala de aula (virtual ou não); **(viii)** Resultados esperados e ou alcançados pela aplicação; **(ix)** Considerações Finais dos autores. Quando for o caso, os autores podem também o potencial do protótipo para virar um produto comercializável (incluindo estudo de mercado, ferramentas comerciais existentes, etc.).
+* O item **(a)** refere-se ao arquivo a ser submetido contendo o artigo que descreve o software, em formato PDF e seguindo o modelo para publicação de artigos da SBC (adaptado para a Mostra). Obtenha o [modelo aqui](https://drive.google.com/file/d/0BxDakxXDvFHOR1pnRWJxeUdjZ0E/view). Os artigos devem possuir um mínimo de 4 (quatro) e um máximo de 8 (oito) páginas. É desejável que o artigo da categoria protótipo contenha as seguintes informações: **(i)** Justificativa pedagógica para o desenvolvimento do protótipo; **(ii)** Disciplinas ou Contexto para as quais o protótipo se destina; **(iii)** Público alvo do protótipo; **(iv)** Processo de desenvolvimento adotado; **(v)** Linguagem de programação utilizada; **(vi)** Apresentação do protótipo (captura de telas; tipo de licença); **(vii)** Potencial de aplicação do protótipo em sala de aula (virtual ou não); **(viii)** Resultados esperados e ou alcançados pela aplicação; **(ix)** Considerações Finais dos autores. Quando for o caso, os autores podem também o descrever potencial do protótipo para virar um produto comercializável (incluindo estudo de mercado, ferramentas comerciais existentes, etc.).
 
-* O item **(b)** refere-se à submissão de arquivo especificando o link do vídeo demonstrativo do protótipo no youtube. Os vídeos dos finalistas serão divulgados durante o evento e em páginas na Internet e redes sociais ligadas ao **VI Concurso Apps.edu – CBIE 2020**.
+* O item **(b)** refere-se à submissão de arquivo especificando o link do vídeo demonstrativo do protótipo no youtube. Os vídeos dos finalistas serão divulgados durante o evento e em páginas na Internet e redes sociais ligadas ao **VI Concurso Apps.edu – CBIE 2020**;
 
-* O item **(c)** refere-se à submissão de um arquivo compactado no formato ZIP, contendo o arquivo de instalação do protótipo e o arquivo “roteiro_de_instalacao.txt”. Este último deverá conter detalhes do processo e requisitos de instalação do software. Vale ressaltar que esse item é obrigatório somente para os casos em que o protótipo necessitar de instalação. Caso o protótipo esteja disponível na Internet será necessário somente a submissão de um arquivo “roteiro_de_acesso.txt”, que deverá conter a URL de acesso ao sistema e maiores informações de acesso, tais como, login e senha, caso necessários.
+* O item **(c)** refere-se à submissão de um arquivo compactado no formato ZIP, contendo o arquivo de instalação do protótipo e o arquivo “roteiro_de_instalacao.txt”. Este último deverá conter detalhes do processo e requisitos de instalação do software. Vale ressaltar que esse item é obrigatório somente para os casos em que o protótipo necessitar de instalação. Caso o protótipo esteja disponível na Internet será necessário somente a submissão de um arquivo “roteiro_de_acesso.txt”, que deverá conter a URL de acesso ao sistema e maiores informações de acesso, tais como, login e senha, caso necessários;
 
 **ATENÇÃO:** Os protótipos apresentados e publicados em edições anteriores do APPS.edu não poderão participar desta edição. Os protótipos que participaram anteriormente e foram melhorados sendo agora produtos poderão participar normalmente na categoria produtos.
 
@@ -77,27 +77,27 @@ A submissão será realizada em uma (1) única etapa, na qual devem ser informad
 
 A submissão será realizada em uma (1) única etapa, na qual devem ser informados o(s) autor(es), título e resumo do trabalho, e submetidos 3 arquivos relacionados respectivamente aos seguintes itens: (a) White paper (b) Vídeo demonstrativo (obrigatório) e (c) Acesso ao produto (obrigatório).
 
-* O item (a) refere-se ao arquivo a ser submetido contendo um white paper que descreve o software, em formato PDF. Considerando que o white paper é normalmente um documento de venda e marketing utilizado para apresentar produtos para potenciais clientes, o formato deste artigo será livre devendo possuir no mínimo 1 (uma) e no máximo 8 (oito) páginas. Os white papers serão publicados nos anais do evento.
+* O item (a) refere-se ao arquivo a ser submetido contendo um white paper que descreve o software, em formato PDF. Considerando que o white paper é normalmente um documento de venda e marketing utilizado para apresentar produtos para potenciais clientes, o formato deste artigo será livre devendo possuir no mínimo 1 (uma) e no máximo 8 (oito) páginas. Os white papers serão publicados nos anais do evento;
 
-* O item (b) refere-se à submissão de arquivo especificando o link do vídeo demonstrativo do produto no youtube. Os vídeos dos finalistas serão divulgados durante o evento e em páginas na Internet e redes sociais ligadas ao V Concurso Apps.edu.
+* O item (b) refere-se à submissão de arquivo especificando o link do vídeo demonstrativo do produto no youtube. Os vídeos dos finalistas serão divulgados durante o evento e em páginas na Internet e redes sociais ligadas ao VI Concurso Apps.edu;
 
-* O item (c) refere-se à submissão de um arquivo compactado no formato ZIP, contendo o arquivo de instalação do produto e o arquivo “roteiro_de_instalacao.txt”. Este último deverá conter detalhes do processo de instalação do software. Vale observar que esse item é obrigatório somente para os casos em que o software necessitar de instalação. Caso o protótipo esteja disponível na Internet será necessário somente a submissão de um arquivo “roteiro_de_acesso.txt”, que deverá conter a URL de acesso ao sistema e maiores informações de acesso, tais como, nome de usuário e senha, caso necessários.
+* O item (c) refere-se à submissão de um arquivo compactado no formato ZIP, contendo o arquivo de instalação do produto e o arquivo “roteiro_de_instalacao.txt”. Este último deverá conter detalhes do processo de instalação do software. Vale observar que esse item é obrigatório somente para os casos em que o software necessitar de instalação. Caso o produto esteja disponível na Internet será necessário somente a submissão de um arquivo “roteiro_de_acesso.txt”, que deverá conter a URL de acesso ao sistema e maiores informações de acesso, tais como, nome de usuário e senha, caso necessários.
 
 **ATENÇÃO:** Os produtos apresentados e publicados em edições anteriores do APPS.edu não poderão participar desta edição.
 
 # Apresentações
 
-As apresentações e avaliações do **Apps.edu** ocorrerão em duas etapas distintas. Na primeira etapa todos os participantes apresentarão seus produtos e protótipos para o público do evento e para os diferentes avaliadores em uma mostra em formato de feira de software. Após esta etapa serão selecionados os que serão apresentados para uma banca de jurados na etapa final do concurso, e onde serão eleitos os premiados. A seguir, mais detalhes sobre as etapas do Concurso.
+As apresentações e avaliações do **Apps.edu** ocorrerão em duas etapas distintas. Na primeira etapa todos os participantes apresentarão seus protótipos ou produtos para o público do evento e para os diferentes avaliadores em uma mostra em formato de feira de software. Após esta etapa serão selecionados os que serão apresentados para uma banca de jurados na etapa final do concurso, e onde serão eleitos os premiados. A seguir, mais detalhes sobre as etapas do Concurso.
 
 ## Etapa 1 – Mostra geral de produtos e protótipos
 
-Os produtos e protótipos aceitos para participação no **Apps.edu** deverão ser apresentados pelas respectivas equipes de autores em um espaço de visitação que será disponibilizado durante o segundo dia do evento (XX/XX/XXXX). Neste ambiente, as equipes receberão visitas de participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu**.
+Os protótipos e produtos aceitos para participação no **Apps.edu** deverão ser apresentados pelas respectivas equipes de autores em um espaço de visitação que será disponibilizado durante o segundo dia do evento (25/11/2020). Neste ambiente, as equipes receberão visitas de participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu**.
 
 * Ao se dirigirem para as equipes, os avaliadores se identificarão aos integrantes das mesmas. Quando os avaliadores autorizarem, a equipe deverá apresentar o funcionamento do produto ou protótipo. Durante a apresentação sugere-se que as equipes destaquem as seguintes características de seu trabalho: **(i)** Contexto para o qual o trabalho se destina; **(ii)** Público alvo; **(iii)** Resultados esperados ou alcançados, e quando for o caso, descrever o seu potencial de comercialização (incluindo estudo de mercado, ferramentas comerciais existentes na concorrência, entre outras), contexto pedagógico e potencial de aplicação na educação.
 
 * Após a apresentação, os avaliadores poderão fazer questionamentos às equipes sobre o trabalho apresentado.
 
-* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos no item 4. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no terceiro dia do evento (XX/XX/XXXX), em horário a ser divulgado na página do evento na Internet.
+* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos no item 4. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no terceiro dia do evento (26/11/2020), em horário a ser divulgado na página do evento na Internet.
 
 * É de responsabilidade dos autores participantes trazer notebooks e demais materiais que julgarem necessários para realizar a apresentação de seus protótipos e produtos para o público visitante deste espaço (aparelhos multimídia, folders, cartazes, entre outros).
 
@@ -116,17 +116,17 @@ Os autores dos produtos e protótipos selecionados para a etapa final deverão a
 
 ## Publicação
 
-**IMPORTANTE:** Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia XX/XX/XXXX. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
+**IMPORTANTE:** Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia 20/09/2020. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
 
 ## Cronograma
 
-* Início da submissão de trabalhos: XX/XX/XXXX
-* Prazo final para submissão de trabalhos: XX/XX/XXXX
-* Divulgação e notificação de aceitação dos trabalhos selecionados: XX/XX/XXXX
-* Data limite para envio das versões finais dos trabalhos aceitos: XX/XX/XXXX
-* Data limite para inscrição de pelo menos um autor por trabalho: XX/XX/XXXX
-* Apresentação dos trabalhos: XX/XX/XXXX
-* Premiação: XX/XX/XXXX
+* Início da submissão de trabalhos: a definir
+* Prazo final para submissão de trabalhos: 19/07/2020
+* Divulgação e notificação de aceitação dos trabalhos selecionados: 04/09/2020
+* Data limite para envio das versões finais dos trabalhos aceitos: 18/09/2020
+* Data limite para inscrição de pelo menos um autor por trabalho: a definir
+* Apresentação dos trabalhos: 24/11/2020
+* Premiação: a definir
 
 *Serão aceitas apenas submissões feitas até as 23:55 da data limite correspondente.*
 
