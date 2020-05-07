@@ -70,7 +70,7 @@ Esta primeira trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Experiências envolvendo programação de computadores, robótica educativa ou pensamento computacional.
 * Experiências e práticas com computação desplugada ou com uso de baixa tecnologia.
 
-Coordenação: Prof. Ecivaldo Matos (IME/UFBA)
+Coordenação: Prof. Dr. Ecivaldo Matos (IME/UFBA) - ecivaldo@ufba.br
 
 ### Trilha 2: Formação de recursos humanos para uso das tecnologias digitais de informação e comunicação (TDIC) na educação
 Esta segunda trilha inclui os seguintes tópicos, sem estar limitada a eles:
@@ -84,7 +84,7 @@ Esta segunda trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Tecnologias móveis e mobile learning na formação.
 * Experiências envolvendo Edtechs.
 
-Coordenação: Profa. Patrícia Smith (CE/UFPE)
+Coordenação: Profa. Dra. Patrícia Smith (CE/UFPE) - patricia3smith@gmail.com
 
 ### Trilha 3: Impactos das tecnologias digitais de informação e comunicação (TDIC) na sociedade
 Esta terceira trilha inclui os seguintes tópicos, sem estar limitada a eles:
@@ -99,14 +99,14 @@ Esta terceira trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Software livre na Educação.
 * Novas tendências de uso das TDIC na educação.
 
-Coordenação: Profa. Akynara Aglé (UFERSA)
+Coordenação: Profa. Dra. Akynara Aglé (UFERSA) - akynara.aglae@ufersa.edu.br
 
 ### Trilha 4: Mostra de Práticas de Informática na Educação (MPIE) 
 Esta quarta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Demonstração de software educativo, incluindo simulações, animações, jogos educativos, exercício e prática, Programação
 * Uso de softwares e tecnologias em práticas de ensino e de aprendizagem, incluindo paradigmas de aprendizagem e suas implicações para o uso de softwares educativos, teorias e estratégias sobre a formação de educadores para o uso das TDIC, novos cenários de formação para a educação digital, experiências com o uso das TDIC e novas abordagens de formação, redes sociais e comunidades online na formação de educadores, Web 2.0 e a formação docente, Letramento digital e desenvolvimento profissional, tecnologias e plataformas de apoio à formação,tecnologias móveis e mobile learning, Informática na Educação Especial,Inclusão digital.
 
-Coordenação: Prof. Cibelle Amorim (CE/UFRN) e Prof. Luis Paulo Leopoldo Mercado (UFAL)
+Coordenação: Prof. Dra. Cibelle Amorim (CE/UFRN) - cibelle.amorim@ce.ufrn.br - e Prof. Dr. Luis Paulo Leopoldo Mercado (UFAL) - luispaulomercado@gmail.com
 
 ## Cronograma
 * Data limite para submissão dos artigos: 05/07/2020
@@ -116,8 +116,8 @@ Coordenação: Prof. Cibelle Amorim (CE/UFRN) e Prof. Luis Paulo Leopoldo Mercad
 * Data limite para inscrição de pelo menos um autor por trabalho: 20/09/2020.    
 
 ## Coordenação do Workshop de Informática na Escola (WIE)
-* Patricia Cabral de Azevedo Restelli Tedesco (CIn/UFPE) - pcart@cin.ufpe.br
-* Apuena Vieira Gomes (IMD/UFRN) - apuena@imd.ufrn.br
+* Profa. Dra. Patricia Cabral de Azevedo Restelli Tedesco (CIn/UFPE) - pcart@cin.ufpe.br
+* Profa. Dra. Apuena Vieira Gomes (IMD/UFRN) - apuena@imd.ufrn.br
 
 ## Termo de Autorização de Publicação
 Os autores dos artigos publicados na SBCOpenLib retém os direitos autorais de suas obras e autorizam a SBC a publicá-las de acordo com os termos da licença Creative Commons Attribution-NonComercial 4.0 International Public License (CC BY-NC 4.0). Dessa forma, fica permitido aos autores ou a terceiros a reprodução ou distribuição, em parte ou no todo, de material extraído dessas obras, de forma verbatim, adaptada ou remixada, bem como a criação ou produção a partir do conteúdo dessas obras, para fins não comerciais, desde que sejam atribuídos os devidos créditos às criações originais. Cópias das obras não devem ser utilizadas de nenhum modo que implique o endosso da SBC.
