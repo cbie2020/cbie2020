@@ -3,7 +3,7 @@ layout: page
 title: Programação
 ---
 
-Por ser um evento online, o CBIE deste ano ocorrerá em duas etapas. O JAIE ocorrerá nos dias **14 e 15 de novembro**, enquanto os demais eventos paralelos ocorrerão no período de **24 a 28 de novembro**.
+Por ser um evento online, o CBIE deste ano ocorrerá em duas etapas. O JAIE ocorrerá nos dias **13 e 14 de novembro**, enquanto os demais eventos paralelos ocorrerão no período de **24 a 28 de novembro**.
 
 ## Programação detalhada por evento
 
