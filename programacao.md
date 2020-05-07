@@ -13,46 +13,7 @@ As programações detalhadas por evento serão inseridas em breve.
 
 ### Evento preliminar - JAIE - 13 e 14 de novembro
 
-<table class="table table-center table-bordered">
-    <thead>
-        <tr class="bg-info">
-            <th></th>
-            <th colspan="2">13 de novembro</th>
-            <th colspan="2">14 de novembro</th>
-        </tr>
-        <tr class="bg-info">
-            <th>Horário</th>
-            <th>Curso 1</th>
-            <th>Curso 2</th>
-            <th>Curso 3</th>
-            <th>Curso 4</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="table-success">
-            <td>09h - 12h</td>
-            <td>Parte 1</td>
-            <td>Parte 1</td>
-            <td>Parte 1</td>
-            <td>Parte 1</td>
-        </tr>
-        <tr>
-            <td>12h - 14h</td>
-            <td>Intervalo</td>
-            <td>Intervalo</td>
-            <td>Intervalo</td>
-            <td>Intervalo</td>
-        </tr>
-        <tr class="table-success">
-            <td>14h - 17h</td>
-            <td>Parte 2</td>
-            <td>Parte 2</td>
-            <td>Parte 2</td>
-            <td>Parte 2</td>
-        </tr>
-    </tbody>
-</table>
-
+Os minicursos da JAIE terão duração de 4h e ocorrerão no período de 13 a 14 de novembro. A programação será divulgada após o processo de seleção dos minicursos. 
 
 ### Evento principal - de 24 a 28 de novembro
 
