@@ -33,8 +33,8 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Modelos, técnicas e métodos para medição do uso, adoção e aceitação de tecnologias educacionais;
 * Robótica educacional.
  
-### Trilha 2: Jogos Educacionais e Tecnologia Inovadora para Educação;
-**Coordenadora**: Dra. Letícia Lopes Leite (UNB).
+### Trilha 2: Jogos Educacionais e Tecnologia Inovadora para Educação
+**Coordenadora**: Dra. Letícia Lopes Leite (UnB).
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Ambientes para desenvolvimento de jogos/jogos sérios/RV/RA/robótica/Sim para apoiar o processo ensino/aprendizagem;
@@ -49,7 +49,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Método, análise, projeto e desenvolvimento de gamificação para apoiar o ensino/aprendizagem;
 * Avaliação da gamificação no apoio ao ensino/aprendizagem.
  
-### Trilha 3: Fatores Humanos em Tecnologia Digital na Educação;
+### Trilha 3: Fatores Humanos em Tecnologia Digital na Educação
 **Coordenador**:  Dr. Henrique Nou Schneider (UFS)
  
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
@@ -65,7 +65,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Aspectos sociais, motivacionais e afetivos em ambientes computacionais para ensino/aprendizagem.
  
 
-### Trilha 4: Sistemas Inteligentes e Adaptativos;
+### Trilha 4: Sistemas Inteligentes e Adaptativos
 **Coordenador**: Dr. Fabiano Azevedo Dorça (UFU)
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
@@ -87,7 +87,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Apoio à tomada de decisões pedagógicas.
  
 
-### Trilha 5: Pensamento e Design Computacional;
+### Trilha 5: Pensamento e Design Computacional
 **Coordenador**: Dr. Crediné Silva de Menezes (UFRGS)
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
@@ -97,12 +97,35 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Pensamento Computacional e Transdisciplinaridade
 * Recursos para o Ensino de Pensamento Computacional 
 
+### Trilha 6: Tecnologias na Educação em Computação
+**Coordenadores**: Roberto Almeida Bittencourt.(UEFS) e Ms. Esdras Lins Bispo Junior (UFJ)
+
+Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
+* Tecnologias no Ensino-Aprendizagem de Disciplinas da Computação
+* Tecnologias na Aprendizagem Colaborativa de Computação
+* Tecnologias na Avaliação da Educação em Computação
+* Educação em Computação a Distância
+* Aspectos Sociais, Humanos e Econômicos das Tecnologias na Educação em Computação
+* Tecnologias para Inclusão e Diversidade na Educação em Computação
+* Tecnologias na Educação em Computação na Escola
+* Tecnologias na Educação Profissional em Computação
+* Mineração de Dados Educacionais na Computação
+* Objetos de Aprendizagem na Educação em Computação
+* Tecnologias na Gestão da Educação em Computação
+* Realidade Virtual e Aumentada na Educação em Computação
+* Redes e Mídias Sociais na Educação em Computação
+* Jogos e Simuladores na Educação em Computação
+* Tecnologias Wireless, Móveis e Ubíquas na Educação em Computação
+* Interação Humano-Computador na Educação em Computação
+* Robótica e Cultura Maker na Educação em Computação
+* Web Semântica e Ontologias na Educação em Computação.
+
 
 ## Orientação Aos Autores
 
 Os artigos submetidos ao SBIE devem posicionar o trabalho apresentado (pesquisa ou estado da arte) em relação aos trabalhos relacionados veiculados na literatura especializada, mostrando a necessidade para uma abordagem nova ou o aprimoramento de uma existente. Um artigo de alto impacto no SBIE deve apresentar uma abordagem teórica e empírica com respeito à identificação do problema, o design da solução/investigação, os métodos usados durante a coleta de dados, e uma análise de resultados com base empírica.
 
-As submissões deverão ser feitas em uma única etapa e devem ser realizadas no formato exclusivamente digital, em arquivos no formato PDF, através do sistema JEMS. Todas as submissões devem, obrigatoriamente, seguir o modelo para publicação de artigos da SBC. Algumas normas adicionais devem ser observadas:
+As submissões deverão ser feitas em uma única etapa e devem ser realizadas no formato exclusivamente digital, em arquivos no formato PDF, através do sistema JEMS. Todas as submissões devem, obrigatoriamente, seguir o [modelo para publicação de artigos da SBC}(http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos). Algumas normas adicionais devem ser observadas:
 
 * Os artigos completos deverão ter entre 08 (oito) e 10 (dez) páginas incluindo tabelas, figuras e referências bibliográficas;
 * Os trabalhos submetidos não devem ter sido publicados anteriormente e nem estar em processo de avaliação ou edição para publicação em outro evento ou periódico;
@@ -136,7 +159,7 @@ O artigo que for aprovado será publicado nos anais do SBIE, desde que:
 
 **IMPORTANTE**: Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia 20/09/2020. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
 
-Os trabalhos aprovados serão apresentados virtualmente em sessões técnicas durante o evento.
+Os trabalhos aprovados serão apresentados remotamente em sessões técnicas durante o evento.
  
 ## Datas Importantes
 
