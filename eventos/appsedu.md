@@ -116,8 +116,8 @@ EM BREVE
 
 # Coordenação do Concurso Apps.edu
 
-* Ismar Frango Silveira - Universidade Presbiteriana Mackenzie (UPM) - ismarfrango@gmail.com
-* Emerson Alencar - Universidade Federal do Rio Grande do Norte (UFRN) - emerson@imd.ufrn.br
+* Prof. Dr. Ismar Frango Silveira - Universidade Presbiteriana Mackenzie (UPM) - ismarfrango@gmail.com
+* Prof. Msc. Emerson Alencar - Universidade Federal do Rio Grande do Norte (UFRN) - emerson@imd.ufrn.br
 
 ## Termo de Autorização de Publicação
 
@@ -130,4 +130,4 @@ Clique no botão a seguir para realizar a sua inscrição no evento [inscrição
 
 # Programação Apps.edu
 
-a definir
+A definir
