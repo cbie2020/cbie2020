@@ -13,7 +13,7 @@ O SBIE prioriza trabalhos que apresentem a concepção, o desenvolvimento e a av
 ## Trilhas do SBIE 2020
 
 ### Trilha 1: Abordagens Metodológicas e Tecnológicas para Educação Básica e Superior
-**Coordenador**: Dr. José Aires de Castro Filho (UFC)
+**Coordenador**: Prof. Dr. José Aires de Castro Filho (UFC) - aires@virtual.ufc.br
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Tecnologia wireless, móvel e ubíqua em sistemas para ensino/aprendizagem;
@@ -34,7 +34,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Robótica educacional.
  
 ### Trilha 2: Jogos Educacionais e Tecnologia Inovadora para Educação
-**Coordenadora**: Dra. Letícia Lopes Leite (UnB).
+**Coordenadora**: Profa. Dra. Letícia Lopes Leite (UnB) - llleite@unb.br
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Ambientes para desenvolvimento de jogos/jogos sérios/RV/RA/robótica/Sim para apoiar o processo ensino/aprendizagem;
@@ -50,7 +50,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Avaliação da gamificação no apoio ao ensino/aprendizagem.
  
 ### Trilha 3: Fatores Humanos em Tecnologia Digital na Educação
-**Coordenador**:  Dr. Henrique Nou Schneider (UFS)
+**Coordenador**:  Prof. Dr. Henrique Nou Schneider (UFS) - hns@terra.com.br
  
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Projeto e avaliação de interfaces com foco no ensino/aprendizagem;
@@ -66,7 +66,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
  
 
 ### Trilha 4: Sistemas Inteligentes e Adaptativos
-**Coordenador**: Dr. Fabiano Azevedo Dorça (UFU)
+**Coordenador**: Prof. Dr. Fabiano Azevedo Dorça (UFU) - fabianodor@ufu.br
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Tutoria inteligente e scaffolding;
@@ -88,7 +88,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
  
 
 ### Trilha 5: Pensamento e Design Computacional
-**Coordenador**: Dr. Crediné Silva de Menezes (UFRGS)
+**Coordenador**: Prof. Dr. Crediné Silva de Menezes (UFRGS) - credine@gmail.com
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Pensamento Computacional no Processo de Aprendizagem
@@ -98,7 +98,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Recursos para o Ensino de Pensamento Computacional 
 
 ### Trilha 6: Tecnologias na Educação em Computação
-**Coordenadores**: Roberto Almeida Bittencourt.(UEFS) e Ms. Esdras Lins Bispo Junior (UFJ)
+**Coordenadores**: Prof. Dr. Roberto Almeida Bittencourt (UEFS) - roberto@uefs.br - e Prof. Ms. Esdras Lins Bispo Junior (UFJ) - esdraspiano@gmail.com
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Tecnologias no Ensino-Aprendizagem de Disciplinas da Computação
@@ -125,7 +125,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 
 Os artigos submetidos ao SBIE devem posicionar o trabalho apresentado (pesquisa ou estado da arte) em relação aos trabalhos relacionados veiculados na literatura especializada, mostrando a necessidade para uma abordagem nova ou o aprimoramento de uma existente. Um artigo de alto impacto no SBIE deve apresentar uma abordagem teórica e empírica com respeito à identificação do problema, o design da solução/investigação, os métodos usados durante a coleta de dados, e uma análise de resultados com base empírica.
 
-As submissões deverão ser feitas em uma única etapa e devem ser realizadas no formato exclusivamente digital, em arquivos no formato PDF, através do sistema JEMS. Todas as submissões devem, obrigatoriamente, seguir o [modelo para publicação de artigos da SBC}(http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos). Algumas normas adicionais devem ser observadas:
+As submissões deverão ser feitas em uma única etapa e devem ser realizadas no formato exclusivamente digital, em arquivos no formato PDF, através do sistema JEMS. Todas as submissões devem, obrigatoriamente, seguir o [modelo para publicação de artigos da SBC](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos). Algumas normas adicionais devem ser observadas:
 
 * Os artigos completos deverão ter entre 08 (oito) e 10 (dez) páginas incluindo tabelas, figuras e referências bibliográficas;
 * Os trabalhos submetidos não devem ter sido publicados anteriormente e nem estar em processo de avaliação ou edição para publicação em outro evento ou periódico;
