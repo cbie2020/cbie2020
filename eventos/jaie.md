@@ -133,6 +133,6 @@ O novo volume da Jornada de Atualização em Informática na Educação será pu
 
 ## Coordenação das Jornadas de Atualização em Informática em Educação (JAIE)
 
-* Alex Sandro Gomes (UFPE) - asg@cin.ufpe.br
-* André Maurício Cunha Campos (UFRN) - andre@dimap.ufrn.br
+* Prof. Dr. Alex Sandro Gomes (UFPE) - asg@cin.ufpe.br
+* Prof. Dr. André Maurício Cunha Campos (UFRN) - andre@dimap.ufrn.br
 
