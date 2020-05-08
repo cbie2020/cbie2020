@@ -96,3 +96,9 @@ Os artigos originais devem conter:
         </tr>
     </tbody>
 </table>
+
+## Coordenação
+
+* Prof. Dr. Prof. Henrique Nou Schneider (UFS) - hns@terra.com.br
+* Profa. Dra. Ismênia Blavatsky de Magalhães (UFRN) - ismenia@imd.ufrn.br
+
