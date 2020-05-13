@@ -34,7 +34,7 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Robótica educacional.
  
 ### Trilha 2: Jogos Educacionais e Tecnologia Inovadora para Educação
-**Coordenadora**: Profa. Dra. Letícia Lopes Leite (UnB) - llleite@unb.br
+**Coordenadores**: Profa. Dra. Letícia Lopes Leite (UnB) - llleite@unb.br - e Prof. Dr. Rafael Dias Araújo (UFU) - rdaraujox@gmail.com
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Ambientes para desenvolvimento de jogos/jogos sérios/RV/RA/robótica/Sim para apoiar o processo ensino/aprendizagem;
