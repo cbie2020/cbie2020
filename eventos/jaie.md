@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jornada de Atualização em Informática em Educação
+title: Jornada de Atualização em Informática na Educação
 ---
 
 ## Informações Gerais
