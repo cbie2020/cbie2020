@@ -3,7 +3,7 @@ layout: page
 title: Sobre
 ---
 
-O Congresso Brasileiro de Informática da Educação (CBIE) é um evento anual da Sociedade Brasileira de Computação (SBC), que tem como objetivo geral promover um fórum para reunir a comunidade da área de Informática na Educação, possibilitando a troca de informações e o estabelecimento de metas para que os desafios educacionais do Brasil sejam superados. Em particular, o CBIE funciona como um fórum para debater e propor avanços e soluções na área de Informática na Educação, visando ao desenvolvimento da educação em todos os seus níveis, com o apoio de diferentes tecnologias.
+O Congresso Brasileiro de Informática na Educação (CBIE) é um evento anual da Sociedade Brasileira de Computação (SBC), que tem como objetivo geral promover um fórum para reunir a comunidade da área de Informática na Educação, possibilitando a troca de informações e o estabelecimento de metas para que os desafios educacionais do Brasil sejam superados. Em particular, o CBIE funciona como um fórum para debater e propor avanços e soluções na área de Informática na Educação, visando ao desenvolvimento da educação em todos os seus níveis, com o apoio de diferentes tecnologias.
 
 O tema deste ano será **Desenvolvimento de habilidades e competências para inovação e impacto social**, no intuito de ampliar um importante debate sobre os processos de inovação tecnológica no âmbito educacional, visando a transformação da sociedade. Espera-se, com isso, construir um espaço de troca de conhecimentos e experiências que tenham em seu âmago o impacto social.
 
