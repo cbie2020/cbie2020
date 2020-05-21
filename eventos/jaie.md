@@ -122,12 +122,12 @@ O novo volume da Jornada de Atualização em Informática na Educação será pu
 
 ## Cronograma
 
-* Data limite para submissão das propostas: 07/06/2020
-* Data limite para notificação de aceitação das propostas selecionadas: 10/07/2020
-* Data limite para submissão do texto completo: 14/08/2020
-* Data limite para divulgação do resultado do texto completo: 04/09/2020
-* Data limite para envio das versões finais dos trabalhos aceitos: 18/09/2020
-* Data limite para inscrição de pelo menos um autor por trabalho: 20/09/2020
+* Data limite para submissão das propostas: 05/07/2020
+* Data limite para notificação de aceitação das propostas: 10/08/2020
+* Data limite para submissão do texto completo: 07/09/2020
+* Data limite para divulgação do resultado do texto completo: 27/09/2020
+* Data limite para envio das versões finais dos trabalhos aceitos: 12/10/2020
+* Data limite para inscrição de pelo menos um autor por trabalho: 14/10/2020
 
 **Importante**: Serão aceitas apenas submissões feitas até as 23:55 da data limite correspondente.
 
