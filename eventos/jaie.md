@@ -3,6 +3,8 @@ layout: page
 title: Jornada de Atualização em Informática na Educação
 ---
 
+A Jornada de Atualização em Informática na Educação (JAIE) deste ano ocorrerá em período separado do evento principal (CBIE ). A JAIE ocorrerá nos dias **13 e 14 de novembro de 2020**.
+
 ## Informações Gerais
 
 As Jornadas de Atualização em Informática na Educação (JAIE) são um momento de atualização científica e tecnológica da comunidade de Informática na Educação (IE) do Brasil. Elas consistem em um conjunto de minicursos que enfoquem temas relacionados à área de IE. Estimulamos a participação de pesquisadores das áreas de Computação, Educação, Psicologia, Design e afins que desejam contribuir com a oferta de minicursos para nossa comunidade.
@@ -128,6 +130,7 @@ O novo volume da Jornada de Atualização em Informática na Educação será pu
 * Data limite para divulgação do resultado do texto completo: 27/09/2020
 * Data limite para envio das versões finais dos trabalhos aceitos: 12/10/2020
 * Data limite para inscrição de pelo menos um autor por trabalho: 14/10/2020
+* Realização dos minicursos: 13 e 14/11/2020
 
 **Importante**: Serão aceitas apenas submissões feitas até as 23:55 da data limite correspondente.
 
