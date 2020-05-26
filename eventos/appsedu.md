@@ -58,8 +58,6 @@ Os critérios obrigatórios precisam ser atendidos por todos os produtos e prot�
 
 # Submissões
 
-As submissões de Protótipos e Produtos para o VI Concurso Apps.edu – CBIE 2020 devem ser realizadas, exclusivamente, pelo sistema JEMS. As submissões devem ser feitas até a data limite para submissão de trabalhos, seguindo o cronograma.
-
 ## Submissões para a Categoria Protótipo
 
 A submissão será realizada em uma (1) única etapa, na qual devem ser informados o(s) autor(es), título e resumo do trabalho, e submetidos 3 arquivos relacionados respectivamente aos seguintes itens: (a) artigo contendo a descrição do software (obrigatório) (b) vídeo demonstrativo (obrigatório) e (c) Acesso ao protótipo (obrigatório).
@@ -89,18 +87,37 @@ A submissão será realizada em uma (1) única etapa, na qual devem ser informad
 
 As apresentações e avaliações do **Apps.edu** ocorrerão em duas etapas distintas. Na primeira etapa todos os participantes apresentarão seus protótipos ou produtos para o público do evento e para os diferentes avaliadores em uma mostra virtual em formato de feira de software. Após esta etapa serão selecionados os que serão apresentados para uma banca de jurados na etapa final do concurso, quando serão eleitos os premiados. A seguir, mais detalhes sobre as etapas do Concurso.
 
-## Etapa 1 – Mostra geral de produtos e protótipos
+## Etapa 1 – Submissão de Trabalhos
 
-EM BREVE
+As submissões de Protótipos e Produtos para o VI Concurso Apps.edu – CBIE 2020 devem ser realizadas, exclusivamente, pelo sistema JEMS. As submissões devem ser feitas até a data limite(**19/07/2020**) para submissão de trabalhos, seguindo o cronograma.
 
 
-## Etapa 2 – Apresentação dos finalistas para banca de jurados
+## Etapa 2 – Mostra geral de produtos e protótipos
 
-EM BREVE
+Os protótipos e produtos aceitos para participação no Apps.edu serão disponibilizados em um espaço virtual (a ser definido) para visitação durante o primeiro e segundo dia do evento **(24 e 25/11/2020)**. Neste ambiente, os participantes do CBIE 2020 bem como dos avaliadores do **Apps.edu** poderão assistir os respectivos vídeos produzidos pelas equipes.
+ 
+* O vídeo deverá ter um tempo máximo de 5 minutos e cada equipe deverá apresentar o funcionamento do produto ou protótipo. Durante a apresentação sugere-se que as equipes destaquem as seguintes características de seu trabalho: **(i)** Contexto para o qual o trabalho se destina; **(ii)** Público alvo; **(iii)** Resultados esperados ou alcançados, e quando for o caso, descrever o seu potencial de comercialização (incluindo estudo de mercado, ferramentas comerciais existentes na concorrência, entre outras), contexto pedagógico e potencial de aplicação na educação;
+ 
+* Cada equipe receberá uma nota de 0 a 10 (zero a dez) referente à apresentação realizada e de acordo com os critérios de avaliação estabelecidos. Os trabalhos que receberem as melhores notas por categoria serão classificados para uma etapa final, que será realizada no quarto dia do evento **(27/11/2020)**, em horário a ser divulgado na página do evento na Internet;
+ 
+ * Após esse período, os avaliadores selecionarão 5 trabalhos de cada categoria (5 protótipos e 5 produtos) para a  segunda etapa;
+
+
+
+## Etapa 3 – Apresentação dos finalistas para banca de jurados
+
+Os autores dos protótipos e produtos selecionados para a etapa final deverão apresentar os mesmos para uma banca de jurados durante o evento, a partir de ambiente virtual (a ser definido) por meio de videoconferência. Cada equipe fará uma breve apresentação *(elevator pitch)*, com duração de 5 minutos, sobre a solução a ser desenvolvida para uma banca de jurados a serem convidados pela organização do concurso. A banca avaliadora poderá realizar uma discussão com os autores sobre a solução apresentada.
+ 
+* Sugere-se que as apresentações contemplem as seguintes características do protótipo ou produto: **(i)** Contexto para o qual o trabalho se destina; **(ii)** Público alvo; **(iii)** Resultados esperados ou alcançados, e quando for o caso, descrever o seu potencial de comercialização (incluindo estudo de mercado, ferramentas comerciais existentes na concorrência, etc), contexto pedagógico e potencial de aplicação na educação.
+ 
+* Nesta etapa, as propostas serão avaliadas pelos jurados pelo desempenho da apresentação das equipes, considerando que os critérios de negócio e técnicos já foram avaliados na etapa de classificação.
+ 
+* Os jurados emitirão uma nota de 0 a 10 (zero a dez) que refletirá o desempenho da apresentação da equipe.
+
 
 ## Publicação
 
-**IMPORTANTE:** Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia **20/09/2020**. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
+**IMPORTANTE:** Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia **18/09/2020**. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
 
 ## Cronograma
 
@@ -108,7 +125,8 @@ EM BREVE
 * Divulgação e notificação de aceitação dos trabalhos selecionados: **04/09/2020**
 * Data limite para envio das versões finais dos trabalhos: **18/09/2020**
 * Data limite para inscrição de pelo menos um autor por trabalho: **18/09/2020**
-* Apresentação dos trabalhos: **24/11/2020**
+* Disponibilização dos trabalhos em espaço virtual para visitação: **24 e 25/09/2020**
+* Apresentação dos trabalhos (Etapa final): **27/11/2020**
 * Premiação: a definir
 
 
