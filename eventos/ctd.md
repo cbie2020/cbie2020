@@ -77,7 +77,7 @@ Os artigos originais devem conter:
             <td>05/07/2020</td>
         </tr>
         <tr>
-            <th rowspan="3">Fase 2</th>
+            <th rowspan="4">Fase 2</th>
             <td>Resultado dos Finalistas e Menção Honrosa</td>
             <td>21/08/2020</td>
         </tr>
