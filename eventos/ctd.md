@@ -77,13 +77,21 @@ Os artigos originais devem conter:
             <td>05/07/2020</td>
         </tr>
         <tr>
-            <th rowspan="2">Fase 2</th>
+            <th rowspan="3">Fase 2</th>
             <td>Resultado dos Finalistas e Menção Honrosa</td>
             <td>21/08/2020</td>
         </tr>
         <tr>
-            <td>Envio do vídeo e versão final</td>
+            <td>Data limite para envio das versões finais dos trabalhos</td>
             <td>04/09/2020</td>
+        </tr>
+         <tr>
+            <td>Data limite para envio do Vídeo de Apresentação</td>
+            <td>11/09/2020</td>
+        </tr>
+         <tr>
+            <td>Data limite para inscrição de pelo menos um autor por trabalho</td>
+            <td>11/09/2020</td>
         </tr>
         <tr>
             <th rowspan="2">Fase 3</th>
@@ -96,6 +104,7 @@ Os artigos originais devem conter:
         </tr>
     </tbody>
 </table>
+
 
 ## Coordenação
 
