@@ -106,14 +106,15 @@ Esta quarta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Demonstração de software educativo, incluindo simulações, animações, jogos educativos, exercício e prática, Programação
 * Uso de softwares e tecnologias em práticas de ensino e de aprendizagem, incluindo paradigmas de aprendizagem e suas implicações para o uso de softwares educativos, teorias e estratégias sobre a formação de educadores para o uso das TDIC, novos cenários de formação para a educação digital, experiências com o uso das TDIC e novas abordagens de formação, redes sociais e comunidades online na formação de educadores, Web 2.0 e a formação docente, Letramento digital e desenvolvimento profissional, tecnologias e plataformas de apoio à formação,tecnologias móveis e mobile learning, Informática na Educação Especial,Inclusão digital.
 
-Coordenação: Prof. Dra. Cibelle Amorim (CE/UFRN) - cibelle.amorim@ce.ufrn.br - e Prof. Dr. Luis Paulo Leopoldo Mercado (UFAL) - luispaulomercado@gmail.com
+Coordenação: Profa. Dra. Cibelle Amorim Martins (CE/UFRN) - cibelle.amorim@ce.ufrn.br - e Prof. Dr. Luis Paulo Leopoldo Mercado (UFAL) - luispaulomercado@gmail.com
 
 ## Cronograma
 * Data limite para submissão dos artigos: 05/07/2020
 * Notificação de aceitação dos artigos completos: 21/08/2020
 * Data limite para envio das versões finais dos trabalhos: 04/09/2020
 * Data limite para envio do Vídeo de Apresentação: 11/09/2020
-* Data limite para inscrição de pelo menos um autor por trabalho: 20/09/2020.    
+* Data limite para inscrição de pelo menos um autor por trabalho: 11/09/2020.
+
 
 ## Coordenação do Workshop de Informática na Escola (WIE)
 * Profa. Dra. Patricia Cabral de Azevedo Restelli Tedesco (CIn/UFPE) - pcart@cin.ufpe.br
