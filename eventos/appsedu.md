@@ -104,13 +104,13 @@ EM BREVE
 
 ## Cronograma
 
-* Início da submissão de trabalhos: a definir
 * Prazo final para submissão de trabalhos: **19/07/2020**
 * Divulgação e notificação de aceitação dos trabalhos selecionados: **04/09/2020**
-* Data limite para envio das versões finais dos trabalhos aceitos: **18/09/2020**
-* Data limite para inscrição de pelo menos um autor por trabalho: a definir
+* Data limite para envio das versões finais dos trabalhos: **18/09/2020**
+* Data limite para inscrição de pelo menos um autor por trabalho: **18/09/2020**
 * Apresentação dos trabalhos: **24/11/2020**
 * Premiação: a definir
+
 
 *Serão aceitas apenas submissões feitas até as 23:55 da data limite correspondente.*
 
