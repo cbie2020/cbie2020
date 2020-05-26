@@ -163,11 +163,11 @@ Os trabalhos aprovados serão apresentados remotamente em sessões técnicas dur
  
 ## Datas Importantes
 
-* Data limite para submissão dos artigos: 05/07/2020
-* Notificação de aceitação dos artigos completos: 21/08/2020
-* Data limite para envio das versões finais dos trabalhos: 04/09/2020
-* Data limite para envio do Vídeo de Apresentação: 11/09/2020
-* Data limite para inscrição de pelo menos um autor por trabalho: 11/09/2020.    
+* Data limite para submissão dos artigos: **05/07/2020**
+* Notificação de aceitação dos artigos completos: **21/08/2020**
+* Data limite para envio das versões finais dos trabalhos: **04/09/2020**
+* Data limite para envio do Vídeo de Apresentação: **11/09/2020**
+* Data limite para inscrição de pelo menos um autor por trabalho: **11/09/2020**
 
 
 ## Coordenação do Simpósio Brasileiro de Informática na Educação (SBIE)
