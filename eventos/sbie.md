@@ -128,12 +128,12 @@ Os artigos submetidos ao SBIE devem posicionar o trabalho apresentado (pesquisa 
 As submissões deverão ser feitas em uma única etapa e devem ser realizadas no formato exclusivamente digital, em arquivos no formato PDF, através do sistema JEMS. Todas as submissões devem, obrigatoriamente, seguir o [modelo para publicação de artigos da SBC](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos). Algumas normas adicionais devem ser observadas:
 
 * Os artigos completos deverão ter entre 08 (oito) e 10 (dez) páginas incluindo tabelas, figuras e referências bibliográficas;
+* Os artigos resumidos deverão ter entre 04 (quatro) e 05 (cinco) páginas incluindo tabelas, figuras e referências biblográficas;
 * Os trabalhos submetidos não devem ter sido publicados anteriormente e nem estar em processo de avaliação ou edição para publicação em outro evento ou periódico;
 * Cada artigo deverá ser submetido para apenas uma trilha. Os artigos que forem submetidos para mais de uma trilha serão imediatamente rejeitados;
 * Na página de rosto do artigo não deverá constar nenhum tipo de identificação dos autores. Da mesma forma, no corpo do artigo devem ser omitidas as informações que permitam a identificação dos autores (os artigos que possuírem identificação serão imediatamente rejeitados).
 * As submissões que não estiverem finalizadas (com os dados solicitados pelo JEMS e o arquivo correspondente devidamente submetido segundo as regras estabelecidas) serão imediatamente rejeitadas.   
  
-
 ## Avaliação e Critérios de Revisão
 
 A seleção de trabalhos será realizada a partir da revisão por membros do comitê de programa do CBIE/SBIE. O processo de revisão será conduzido de forma anônima (double blind review) e cada artigo será analisado por pelo menos dois revisores, com a arbitragem de um terceiro revisor em caso de necessidade.
@@ -152,12 +152,33 @@ Aspectos a serem avaliados nos textos completos:
 
 ## Apresentação e publicação dos trabalhos selecionados
 
+Além das orientações para escrita, submissão e avaliação dos trabalhos, declaradas em cada um dos eventos satélites do CBIE, os participantes inscritos na categoria de autores deverão atender às seguintes indicações para apresentação dos trabalhos.
+
+Uma vez que os trabalhos tenham sido aprovados para apresentação e publicação, os autores devem enviar um vídeo com a apresentação do trabalho com as seguintes indicações:
+
+### Sobre os vídeos de apresentação
+
+* Artigos completos e resumidos: de 05 a 10 minutos;
+* Trazer os tópicos sugeridos na construção do artigo, quais sejam: Identificação e filiação institucional dos autores, Introdução, Métodos, Resultados e Discussões e Conclusões. Sugere-se que maior parte da apresentação seja dedicada aos métodos, resultados e discussão e conclusões;
+* Os autores são livres para escolher a melhor forma de produzir o vídeo. Entretanto, recomenda-se fortemente que os aspectos visuais e, principalmente, orais da apresentação sejam priorizados. Seja criativo!;
+* Os vídeos serão enviados pelo JEMS, junto com termo de anuência para edição e publicação da mídia pela organização do CBIE 2020. Aos vídeos serão adicionadas vinhetas do CBIE 2020 e, futuramente, publicados em ambiente abertos e públicos para a comunidade como forma de expandir o alcance e divulgação dos trabalhos;
+* Os trabalhos que não tiverem seus vídeos enviados ou em conformidade com as orientações, serão considerados rejeitados.
+
+
+### Sobre as sessões técnicas virtuais:
+
+* As sessões técnicas de apresentação virtual serão compostas de até 6 trabalhos e organizadas priorizando as temáticas declaradas nos trabalhos e diversidade de autores;
+* As sessões ocorrerão, durante o período do CBIE 2020, a partir de ambiente virtual (a ser definido) por meio de videoconferência, para as atividades síncronas, e fórum, para as interações assíncronas. Ao efetuar o pagamento da inscrição, o participante terá sua credencial de acesso ao ambiente liberada conforme a modalidade escolhida (autor ou participante);
+* A organização compilará os vídeos de cada sessão e os disponibilizará, previamente, para os interessados em participar da sessão, bem como, durante o dia e hora destinado para sua realização;
+* Após a apresentação do compilado de vídeos da sessão (um total de até 60min), serão dedicados tempo para discussão síncrona dos trabalhos. Haverão até 30min para o debate entre autores, coordenador de sessão e platéia por meio de videoconferência. Dúvidas e comentários adicionais, poderão ser feitos de forma assíncrona em um fórum dedicado à sessão;
+* Será obrigatório que, durante a realização da sessão, pelo menos um dos autores do trabalho, preferencialmente aquele que se inscreveu na categoria de apresentador, esteja presente virtual e sincronicamente na sessão a qual seu trabalho foi alocado. Para viabilizar a participação dos autores, a organização do CBIE 2020 ou evento satélite poderá emitir declaração indicando a necessidade de participação do autor. Adicionalmente, a organização poderá solicitar aos participantes indicações de melhores datas e horários para apresentação.
+
 O artigo que for aprovado será publicado nos anais do SBIE, desde que:
 1. pelo menos um dos autores efetive sua inscrição no evento no prazo indicado;
 1. os autores incluam na versão final seus dados (nomes, filiações e e-mails, bem como demais informações necessárias ao artigo – ex., citações a outros trabalhos dos autores);
 1. Os autores devem enviar um vídeo de apresentação do artigo (tempo e formato a ser determinado)
 
-**IMPORTANTE**: Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia 20/09/2020. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
+**IMPORTANTE**: Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia 11/09/2020. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
 
 Os trabalhos aprovados serão apresentados remotamente em sessões técnicas durante o evento.
  
