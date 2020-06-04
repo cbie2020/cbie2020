@@ -37,17 +37,20 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 **Coordenadores**: Profa. Dra. Letícia Lopes Leite (UnB) - llleite@unb.br - e Prof. Dr. Rafael Dias Araújo (UFU) - rafael.araujo@ufu.br
 
 Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
-* Ambientes para desenvolvimento de jogos/jogos sérios/RV/RA/robótica/Sim para apoiar o processo ensino/aprendizagem;
-* Método, análise, projeto e desenvolvimento de jogos/jogos sérios/RV/RA/robótica/Sim educativos;
+* Ambientes/ferramentas para desenvolvimento de jogos/jogos sérios/RV/RA/robótica/Sim para apoiar o processo ensino/aprendizagem;
+* Método, análise, projeto, desenvolvimento e avaliação de jogos/jogos sérios/RV/RA/robótica/Sim educativos;
 * Avaliação do ensino/aprendizagem a partir de jogos/jogos sérios/RV/RA/robótica/Sim;
-* Jogos digitais (ativos, locativos, etc.) para apoiar o ensino/aprendizagem;
-* Jogos sérios para apoiar o ensino/aprendizagem;
-* Realidade virtual e mista (aumentada, cruzada, etc.) para apoiar o ensino/aprendizagem;
+* Jogos sérios digitais para apoiar o ensino/aprendizagem;
+* Desenvolvimento de habilidades metacognitivas por meio de jogos sérios digitais;
+* Questões sociais e éticas na aprendizagem baseada em jogos digitais;
 * Simuladores para apoiar o ensino/aprendizagem;
 * Mundos virtuais 2D/3D para apoiar o ensino/aprendizagem;
 * Ambientes para gamificação para apoiar o ensino/aprendizagem;
 * Método, análise, projeto e desenvolvimento de gamificação para apoiar o ensino/aprendizagem;
-* Avaliação da gamificação no apoio ao ensino/aprendizagem.
+* Avaliação da gamificação no apoio ao ensino/aprendizagem;
+* Projeto, implementação e avaliação de laboratórios online para aulas práticas na educação;
+* Proposta, desenvolvimento e avaliação de livros didáticos interativos;
+* Sistemas e aplicações multimídia para suporte ao ensino/aprendizagem.
  
 ### Trilha 3: Fatores Humanos em Tecnologia Digital na Educação
 **Coordenador**:  Prof. Dr. Henrique Nou Schneider (UFS) - hns@terra.com.br
@@ -62,7 +65,11 @@ Esta trilha inclui os seguintes tópicos, sem estar limitada a eles:
 * Avaliação de acessibilidade de tecnologias educacionais;
 * Diretrizes e recomendações de design para a acessibilidade de tecnologias educacionais;
 * Tecnologias assistivas em processos educacionais;
-* Aspectos sociais, motivacionais e afetivos em ambientes computacionais para ensino/aprendizagem.
+* Aspectos sociais, motivacionais e afetivos em ambientes computacionais para ensino/aprendizagem;
+* Projeto de aprendizagem e abordagens de formalização para apoiar a perspectiva CSCL;
+* Aspectos teóricos, epistemológicos e metodológicos de CSCL;
+* Uso de mídias sociais em cenários CSCL;
+* Apoio a comunidades de Aprendizagem baseadas na Web com ferramentas CSCL.
  
 
 ### Trilha 4: Sistemas Inteligentes e Adaptativos
