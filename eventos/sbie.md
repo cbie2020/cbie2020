@@ -135,7 +135,7 @@ Os artigos submetidos ao SBIE devem posicionar o trabalho apresentado (pesquisa 
 As submissões deverão ser feitas em uma única etapa e devem ser realizadas no formato exclusivamente digital, em arquivos no formato PDF, através do sistema JEMS. Todas as submissões devem, obrigatoriamente, seguir o [modelo para publicação de artigos da SBC](http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos). Algumas normas adicionais devem ser observadas:
 
 * Os artigos completos deverão ter entre 08 (oito) e 10 (dez) páginas incluindo tabelas, figuras e referências bibliográficas;
-* Os artigos resumidos deverão ter entre 04 (quatro) e 05 (cinco) páginas incluindo tabelas, figuras e referências biblográficas;
+* Os artigos resumidos deverão ter entre 04 (quatro) e 05 (cinco) páginas incluindo tabelas, figuras e referências biblográficas. Artigos resumidos serão publicados na mesma categoria dos artigos de workshop e não com o qualis de Artigos Completos.
 * Os trabalhos submetidos não devem ter sido publicados anteriormente e nem estar em processo de avaliação ou edição para publicação em outro evento ou periódico;
 * Cada artigo deverá ser submetido para apenas uma trilha. Os artigos que forem submetidos para mais de uma trilha serão imediatamente rejeitados;
 * Na página de rosto do artigo não deverá constar nenhum tipo de identificação dos autores. Da mesma forma, no corpo do artigo devem ser omitidas as informações que permitam a identificação dos autores (os artigos que possuírem identificação serão imediatamente rejeitados).
