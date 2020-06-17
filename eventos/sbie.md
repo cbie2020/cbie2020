@@ -159,9 +159,7 @@ Aspectos a serem avaliados nos textos completos:
 
 ## Apresentação e publicação dos trabalhos selecionados
 
-Além das orientações para escrita, submissão e avaliação dos trabalhos, declaradas em cada um dos eventos satélites do CBIE, os participantes inscritos na categoria de autores deverão atender às seguintes indicações para apresentação dos trabalhos.
-
-Uma vez que os trabalhos tenham sido aprovados para apresentação e publicação, os autores devem enviar um vídeo com a apresentação do trabalho com as seguintes indicações:
+Uma vez que os trabalhos tenham sido aprovados para apresentação e publicação, os autores devem além de atender as orientações para escrita e submissão do artigo,  enviar um vídeo com a apresentação do trabalho com as seguintes indicações:
 
 ### Sobre os vídeos de apresentação
 
@@ -180,14 +178,11 @@ Uma vez que os trabalhos tenham sido aprovados para apresentação e publicaçã
 * Após a apresentação do compilado de vídeos da sessão (um total de até 60min), serão dedicados tempo para discussão síncrona dos trabalhos. Haverão até 30min para o debate entre autores, coordenador de sessão e platéia por meio de videoconferência. Dúvidas e comentários adicionais, poderão ser feitos de forma assíncrona em um fórum dedicado à sessão;
 * Será obrigatório que, durante a realização da sessão, pelo menos um dos autores do trabalho, preferencialmente aquele que se inscreveu na categoria de apresentador, esteja presente virtual e sincronicamente na sessão a qual seu trabalho foi alocado. Para viabilizar a participação dos autores, a organização do CBIE 2020 ou evento satélite poderá emitir declaração indicando a necessidade de participação do autor. Adicionalmente, a organização poderá solicitar aos participantes indicações de melhores datas e horários para apresentação.
 
-O artigo que for aprovado será publicado nos anais do SBIE, desde que:
+O artigo completo que for aprovado será publicado nos anais do SBIE, desde que:
 1. pelo menos um dos autores efetive sua inscrição no evento no prazo indicado;
 1. os autores incluam na versão final seus dados (nomes, filiações e e-mails, bem como demais informações necessárias ao artigo – ex., citações a outros trabalhos dos autores);
-1. Os autores devem enviar um vídeo de apresentação do artigo (tempo e formato a ser determinado)
 
 **IMPORTANTE**: Os autores devem fazer o upload do comprovante de pagamento de inscrição, via JEMS, até o dia 11/09/2020. A publicação dos artigos nos anais está condicionada ao envio do comprovante solicitado.
-
-Os trabalhos aprovados serão apresentados remotamente em sessões técnicas durante o evento.
  
 ## Datas Importantes
 
