@@ -147,7 +147,7 @@ A seleção de trabalhos será realizada a partir da revisão por membros do com
 
 Os trabalhos submetidos devem contemplar um posicionamento sobre uma teoria da aprendizagem e mostrar como estes são aplicados na prática educacional. Devem demonstrar a qualidade acadêmica avaliada pela solidez da metodologia utilizada, pela qualidade/profundidade da fundamentação teórica e pela qualidade/profundidade da análise e da discussão dos resultados. Além disso, estes trabalhos devem manter um alto nível de qualidade acadêmica, refletindo sobre como este trabalho estende ou se distingue de outros trabalhos semelhantes.
 
-Aspectos a serem avaliados nos textos completos:
+Aspectos a serem avaliados nos textos completos e resumidos:
 * Aderência ao evento / trilha: O artigo se adequa ao SBIE? O artigo adequa aos temas da trilha?
 * Fundamentação pedagógica e / ou tecnológica: Como o trabalho (pesquisa ou estado da arte) se apoia em teorias pedagógicas ou em novo uso de tecnologia para apoiar o ensino e a aprendizagem?
 * Originalidade: Como a pesquisa (ou estado da arte) contribui para inovação no uso de tecnologias digitais na educação?
@@ -187,7 +187,7 @@ O artigo completo que for aprovado será publicado nos anais do SBIE, desde que:
 ## Datas Importantes
 
 * Data limite para submissão dos artigos: **05/07/2020**
-* Notificação de aceitação dos artigos completos: **21/08/2020**
+* Notificação de aceitação dos artigos: **21/08/2020**
 * Data limite para envio das versões finais dos trabalhos: **04/09/2020**
 * Data limite para envio do Vídeo de Apresentação: **11/09/2020**
 * Data limite para inscrição de pelo menos um autor por trabalho: **11/09/2020**
