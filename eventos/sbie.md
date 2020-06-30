@@ -12,6 +12,8 @@ O SBIE prioriza trabalhos que apresentem a concepção, o desenvolvimento e a av
 
 ## Trilhas do SBIE 2020
 
+Podem ser submetidos Artigos completos  ou resumidos nos idiomas  Português, Inglês ou Espanhol em uma das trilhas a seguir:
+
 ### Trilha 1: Abordagens Metodológicas e Tecnológicas para Educação Básica e Superior
 **Coordenador**: Prof. Dr. José Aires de Castro Filho (UFC) - aires@virtual.ufc.br
 
