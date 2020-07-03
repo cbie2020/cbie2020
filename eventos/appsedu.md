@@ -122,7 +122,7 @@ Os autores dos protótipos e produtos selecionados para a etapa final deverão a
 ## Cronograma
 
 * Prazo final para submissão de trabalhos: **19/07/2020**
-* Divulgação e notificação de aceitação dos trabalhos selecionados: **04/09/2020**
+* Divulgação e notificação de aceitação dos trabalhos selecionados: **11/09/2020**
 * Data limite para envio das versões finais dos trabalhos: **18/09/2020**
 * Data limite para inscrição de pelo menos um autor por trabalho: **18/09/2020**
 * Disponibilização dos trabalhos em espaço virtual para visitação: **24 e 25/09/2020**
