@@ -74,7 +74,7 @@ Os artigos originais devem conter:
         <tr>
             <th>Fase 1</th>
             <td>Submissão dos Trabalhos</td>
-            <td>05/07/2020</td>
+            <td>19/07/2020</td>
         </tr>
         <tr>
             <th rowspan="4">Fase 2</th>
@@ -83,15 +83,15 @@ Os artigos originais devem conter:
         </tr>
         <tr>
             <td>Data limite para envio das versões finais dos trabalhos</td>
-            <td>04/09/2020</td>
+            <td>18/09/2020</td>
         </tr>
          <tr>
             <td>Data limite para envio do Vídeo de Apresentação</td>
-            <td>11/09/2020</td>
+            <td>18/09/2020</td>
         </tr>
          <tr>
             <td>Data limite para inscrição de pelo menos um autor por trabalho</td>
-            <td>11/09/2020</td>
+            <td>18/09/2020</td>
         </tr>
         <tr>
             <th rowspan="2">Fase 3</th>
